@@ -1,0 +1,33 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Volumes/Work/Programming/Projects/ConsoleApplication/test/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.csproj",
+    "projectName": "ConsoleApplication1",
+    "projectPath": "/Volumes/Work/Programming/Projects/ConsoleApplication/test/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.csproj",
+    "outputPath": "/Volumes/Work/Programming/Projects/ConsoleApplication/test/ConsoleApplication1/ConsoleApplication1/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
