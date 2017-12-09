@@ -1,0 +1,10 @@
+/Volumes/Work/Programming/Projects/ConsoleApplication/test/ConsoleApplication1/ConsoleApplication1/bin/Debug/netcoreapp2.0/ConsoleApplication1.deps.json
+/Volumes/Work/Programming/Projects/ConsoleApplication/test/ConsoleApplication1/ConsoleApplication1/bin/Debug/netcoreapp2.0/ConsoleApplication1.runtimeconfig.json
+/Volumes/Work/Programming/Projects/ConsoleApplication/test/ConsoleApplication1/ConsoleApplication1/bin/Debug/netcoreapp2.0/ConsoleApplication1.runtimeconfig.dev.json
+/Volumes/Work/Programming/Projects/ConsoleApplication/test/ConsoleApplication1/ConsoleApplication1/bin/Debug/netcoreapp2.0/ConsoleApplication1.dll
+/Volumes/Work/Programming/Projects/ConsoleApplication/test/ConsoleApplication1/ConsoleApplication1/bin/Debug/netcoreapp2.0/ConsoleApplication1.pdb
+/Volumes/Work/Programming/Projects/ConsoleApplication/test/ConsoleApplication1/ConsoleApplication1/obj/Debug/netcoreapp2.0/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/Volumes/Work/Programming/Projects/ConsoleApplication/test/ConsoleApplication1/ConsoleApplication1/obj/Debug/netcoreapp2.0/ConsoleApplication1.AssemblyInfoInputs.cache
+/Volumes/Work/Programming/Projects/ConsoleApplication/test/ConsoleApplication1/ConsoleApplication1/obj/Debug/netcoreapp2.0/ConsoleApplication1.AssemblyInfo.cs
+/Volumes/Work/Programming/Projects/ConsoleApplication/test/ConsoleApplication1/ConsoleApplication1/obj/Debug/netcoreapp2.0/ConsoleApplication1.dll
+/Volumes/Work/Programming/Projects/ConsoleApplication/test/ConsoleApplication1/ConsoleApplication1/obj/Debug/netcoreapp2.0/ConsoleApplication1.pdb
